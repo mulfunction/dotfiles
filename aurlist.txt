@@ -1,0 +1,3 @@
+antigravity
+larksuite-bin
+lib32-libsoup
